@@ -21,9 +21,10 @@ modifying URLs easy.
 Furl is well tested, [Unlicensed](http://unlicense.org/) in the public
 domain, and supports Python 3 and PyPy3.
 
-👥 Furl is looking for a lead contributor and maintainer. Would you love
-to lead furl, and making working with URLs a joy for everyone in Python?
-Please [reach out](mailto:grunseid+icecream@gmail.com) and let me know! 🙌
+Furl is maintained by [Alex Cochran](https://github.com/alexcochran), with support from the confidential computing folks at [🌖 Lunal](https://lunal.dev/).
+
+
+## Usage
 
 Code time: Paths and query arguments are easy. Really easy.
 
